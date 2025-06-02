@@ -7,7 +7,7 @@
 <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 As a Software Engineering graduate from Toronto Metropolitan University, I am passionate about creativity, productivity, and building productivity-focused applications.<br> 
 <br>Through my professional and hobbyist experience developing SaaS applications with production-level tech stacks, I have honed my ability to create scalable, efficient products.<br> 
-<br>Some of my hobby projects include; DataLogViewer2.0 - Flutter/Dart built cross-platform SaaS built for automotive tuners to display and store sensor data,<br> 
+<br>Some of my hobby projects include;<br> DataLogViewer2.0 - Flutter/Dart built cross-platform SaaS built for automotive tuners to display and store sensor data, 
 <br>LoL Matchup Chatbot - Python/OpenAI powered LLM Chatbot leveraging Deepseek-r1, FAISS Vector databases, and a custom implementation of Retrieval-Augmented Generation, and a Next.js/Vercel online resume where I render my own 3D models via ThreeJS 
 
    
